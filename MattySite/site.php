@@ -1,1 +1,3 @@
-Teste
+<?php
+
+	echo "Olá mundo!";
