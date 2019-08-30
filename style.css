@@ -1,0 +1,27 @@
+body {
+    background-color: #202020;
+}
+
+h1 {
+    color:chartreuse;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+.navbar {
+    color: aliceblue;
+    background-color: #202020;
+    border-color: chartreuse;
+}
+
+.card {
+    color: aliceblue;
+    background-color: #202020;
+    border-color: chartreuse;
+}
+
+.col-sm {
+    color: aliceblue;
+}
